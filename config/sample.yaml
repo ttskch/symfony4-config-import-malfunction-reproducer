@@ -1,0 +1,4 @@
+services:
+    App\Service:
+        arguments:
+            - test
